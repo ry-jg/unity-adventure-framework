@@ -1,0 +1,11 @@
+{
+  "name": "com.ryanjung.adventureframework",
+  "version": "1.0.0",
+  "displayName": "Node-Based Adventure Framework",
+  "description": "Modular 3D point-and-click traversal, raycasting interaction, and puzzle framework.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0",
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
